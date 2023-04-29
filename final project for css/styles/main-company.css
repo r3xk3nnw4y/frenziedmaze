@@ -230,6 +230,7 @@ nav ul {
 		width: 50%;
 		padding-left: 80px;
 		margin-left: 80px;
+		left: 50px;
 	}
 	#tabs{
 		float:right;
