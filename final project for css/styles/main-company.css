@@ -228,7 +228,8 @@ nav ul {
 	#myform{
 		float: right;
 		width: 50%;
-		padding-left: 50px;
+		padding-left: 80px;
+		margin-left: 80px;
 	}
 	#tabs{
 		float:right;
