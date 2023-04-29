@@ -227,19 +227,19 @@ nav ul {
     background-color: orange; }
 	#myform{
 		float: right;
-		width: 40%;
+		width: 50%;
 	}
 	#tabs{
 		float:right;
 		 width: 30%;
 		 height: 60%;
-		 padding-right: 300px;
-		padding-left: 30px;
+		 padding-right: 200px;
+		padding-left: 20px;
 		 
 	}
 	#country_code{
 		height: 30px;
-		padding-right: 20px;
+		padding-right: 10px;
 		width: 30%;
 		
 	}
