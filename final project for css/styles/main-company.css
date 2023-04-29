@@ -227,7 +227,7 @@ nav ul {
     background-color: orange; }
 	#myform{
 		float: right;
-		width: 50%;
+		width: 40%;
 		left: 20px;
 	}
 	#tabs{
@@ -235,7 +235,6 @@ nav ul {
 		 width: 30%;
 		 height: 60%;
 		 padding-right: 200px;
-		padding-left: 20px;
 		 
 	}
 	#country_code{
